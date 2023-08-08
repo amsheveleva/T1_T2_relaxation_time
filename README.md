@@ -5,5 +5,7 @@ First, we derive the tables of data using MATLAB script and saved in Excel table
 experiment by inversion recovery and spin echo experiment and derived, respectively. 
 And then, we process the data using Python libraries to plot and analyse the data.
 
+Script uses the Easy-spin package (https://easyspin.org/) for MATLAB, which should be installed to make the script run. 
+
 
 
